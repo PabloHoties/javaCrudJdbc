@@ -1,0 +1,35 @@
+# Arquivos temporários
+*.class
+*.log
+*. *.iml
+*.swp
+*. ~
+*.tmp
+
+# Arquivos de compilação
+bin/
+target/
+
+# Dependências do Maven
+/.mvn/
+/target/
+
+# Arquivos de configuração IntelliJ IDEA
+.idea/
+
+# Arquivos de configuração Eclipse
+.classpath
+.project
+.settings/
+
+# Logs e saídas
+logs/
+*.log
+
+# Outros arquivos e diretórios específicos
+/dist/
+/build/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
